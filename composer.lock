@@ -600,16 +600,16 @@
         },
         {
             "name": "mobiledetect/mobiledetectlib",
-            "version": "4.8.04",
+            "version": "4.8.05",
             "source": {
                 "type": "git",
                 "url": "https://github.com/serbanghita/Mobile-Detect.git",
-                "reference": "b73a5bdbcec74a6d33389cc8fe3a5af5d0965d01"
+                "reference": "b7a8cdd70955ea6162269939914ba97fe36a154a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/serbanghita/Mobile-Detect/zipball/b73a5bdbcec74a6d33389cc8fe3a5af5d0965d01",
-                "reference": "b73a5bdbcec74a6d33389cc8fe3a5af5d0965d01",
+                "url": "https://api.github.com/repos/serbanghita/Mobile-Detect/zipball/b7a8cdd70955ea6162269939914ba97fe36a154a",
+                "reference": "b7a8cdd70955ea6162269939914ba97fe36a154a",
                 "shasum": ""
             },
             "require": {
@@ -652,7 +652,7 @@
             ],
             "support": {
                 "issues": "https://github.com/serbanghita/Mobile-Detect/issues",
-                "source": "https://github.com/serbanghita/Mobile-Detect/tree/4.8.04"
+                "source": "https://github.com/serbanghita/Mobile-Detect/tree/4.8.05"
             },
             "funding": [
                 {
@@ -660,7 +660,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2023-10-28T16:04:34+00:00"
+            "time": "2024-01-10T22:04:41+00:00"
         },
         {
             "name": "psr/container",
